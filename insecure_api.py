@@ -8,7 +8,7 @@ import logging
 import subprocess
 import requests
 
-#asdfa
+#Prueba Taller GithubActions
 app = FastAPI(title="Insecure Demo API (Sonar Alerts)")
 
 logging.basicConfig(level=logging.INFO)
